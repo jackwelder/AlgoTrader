@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
 
+# Title: Twitter Scraper
+# Author: Nick Fiacco
+# Date: 4/4/2016
+
+# Arguments: 
+#	ticker
+#	numTweets
+
+# Example Usage: python twitter.py AAPL 10
+
+# Description: prints the message body of the most recent number
+# of tweets specified with the ticker specified
+
 import requests
 import json
 import sys
