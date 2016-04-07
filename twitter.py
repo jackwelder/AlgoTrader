@@ -31,4 +31,3 @@ tweets = json_data["messages"]
 
 for tweet in tweets:
 	print(tweet["body"] + "\n")
-

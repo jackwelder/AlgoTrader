@@ -1,9 +1,12 @@
 # jack elder
 # creates dictionary based on csv file for good / bad words
-tweets = open("dict.txt", "r")
-wavelength_dictionary = {}
+def create_dict(textfile):
+    file = open(textfile, "r")
+    dictionary = {}
+    for line in file:
+        s = line.strip()
+        sp = s.split(",")
+        dictionary[sp[0]] = sp[1]
+    return dictionary
 
-for line in tweets:
-    s = line.strip()
-    sp = s.split(",")
-    wavelength_dictionary[sp[0]] = sp[1]
+create_dict("dict.txt")
