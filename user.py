@@ -3,14 +3,15 @@
 #
 # description:
 # this program allows you to run a query on all of a user's previous
-# tweets, given their StockTwits user name.
+# tweets, given their StockTwits user name and the number of tweets
+# to fetch.
 #
 # dependencies:
 # StockTwits API access
 # requests
 # json
 #
-# example usage: python user.py TrustedBinary
+# example usage: python user.py TrustedBinary 1000
 
 from __future__ import print_function
 import requests
