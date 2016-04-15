@@ -8,7 +8,7 @@
 #	ticker
 #	numTweets
 
-# Example Usage: python twitter.py AAPL 10
+# Example Usage: python stream.py AAPL 10
 
 # Description: prints the message body of the most recent number
 # of tweets specified with the ticker specified
@@ -17,17 +17,20 @@ import requests
 import json
 import sys
 
-ticker = sys.argv[1]
+def stream():
+	ticker = sys.argv[1]
 
-number = sys.argv[2]
+	number = sys.argv[2]
 
-url = "https://api.stocktwits.com/api/2/streams/symbol/" + ticker + ".json?limit=" + number
+	url = "https://api.stocktwits.com/api/2/streams/symbol/" + ticker + ".json?limit=" + number
 
-response = requests.get(url)
+	response = requests.get(url)
 
-json_data = response.json()
+	json_data = response.json()
 
-tweets = json_data["messages"]
+	tweets = json_data["messages"]
 
-for tweet in tweets:
-	print(tweet["body"] + "\n")
+	for tweet in tweets:
+		print(tweet["body"] + "\n")
+
+stream()

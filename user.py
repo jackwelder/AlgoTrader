@@ -3,71 +3,76 @@
 #
 # description:
 # this program allows you to run a query on all of a user's previous
-# tweets, given their StockTwits user name and the number of tweets
-# to fetch.
+# tweets, given their StockTwits user name, the number of tweets to
+# fetch, and the output file name.
 #
 # dependencies:
 # StockTwits API access
 # requests
 # json
 #
-# example usage: python user.py TrustedBinary 1000
+# example usage: python user.py TrustedBinary 1000 output.txt
 
 from __future__ import print_function
 import requests
 import json
 import sys
 
-# username from which we will fetch tweets
-user = sys.argv[1]
 
-# number of tweets to fetch
-count = int(sys.argv[2])
+def user():
+	# username from which we will fetch tweets
+	user = sys.argv[1]
 
-# output file
-f = open('output.txt','w')
+	# number of tweets to fetch
+	count = int(sys.argv[2])
 
-# initial api request url
-url = "https://api.stocktwits.com/api/2/streams/user/" + user + ".json"
+	# output file name
+	filename = sys.argv[3]
 
-response = requests.get(url)
+	# output file
+	f = open(filename,'w')
 
-json_data = response.json()
+	# initial api request url
+	url = "https://api.stocktwits.com/api/2/streams/user/" + user + ".json"
 
-oldest_id = 0
-
-for tweet in json_data['messages']:
-	print(tweet['body'], file = f)
-	print("", file = f)
-	oldest_id = int(tweet['id'])
-
-
-while True:
-	# generate new urls for older tweets using tweet ids
-	new_url  = "https://api.stocktwits.com/api/2/streams/user/" + user + ".json?max=" + str(oldest_id)
-
-	response = requests.get(new_url)
-
-	if response == "<Response [500]>":
-		print("No more tweets\n")
-		break
-
-	if count <= 0:
-		print("Reached maximum tweet amount\n")
-		break
+	response = requests.get(url)
 
 	json_data = response.json()
+
+	oldest_id = 0
 
 	for tweet in json_data['messages']:
 		print(tweet['body'], file = f)
 		print("", file = f)
 		oldest_id = int(tweet['id'])
 
-	count -= 30
 
-f.close()
+	while True:
+		# generate new urls for older tweets using tweet ids
+		new_url  = "https://api.stocktwits.com/api/2/streams/user/" + user + ".json?max=" + str(oldest_id)
 
+		response = requests.get(new_url)
 
+		if response == "<Response [500]>":
+			print("No more tweets\n")
+			break
+
+		if count <= 0:
+			print("Reached maximum tweet amount\n")
+			break
+
+		json_data = response.json()
+
+		for tweet in json_data['messages']:
+			print(tweet['body'], file = f)
+			print("", file = f)
+			oldest_id = int(tweet['id'])
+
+		count -= 30
+
+	f.close()
+
+user()
 
 
 
