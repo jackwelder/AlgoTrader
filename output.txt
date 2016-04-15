@@ -1,0 +1,660 @@
+ALERT: New Social signal created on $GBPAUD - Direction: Low at 1.83839 - Time: 23:32 - Strength: 6.
+
+ALERT: New Social signal created on $C - Direction: High at 44.875 - Time: 22:02 - Strength: 5.
+
+ALERT: New RSI signal created on $KMB - Direction: High at 136.0 - Time: 20:31 - Strength: 6.
+
+ALERT: New Social signal created on $BBY - Direction: High at 32.29 - Time: 19:01 - Strength: 10.
+
+ALERT: New RSI signal created on $BAC - Direction: Low at 14.12 - Time: 17:29 - Strength: 9.
+
+ALERT: New MACD signal created on $BTCUSD - Direction: High at 425.84 - Time: 15:59 - Strength: 8.
+
+ALERT: New MACD signal created on $F - Direction: Low at 13.11 - Time: 14:29 - Strength: 7.
+
+ALERT: New Social signal created on $YHOO - Direction: High at 37.475 - Time: 12:58 - Strength: 10.
+
+ALERT: New Bollinger Bands signal created on $FB - Direction: Low at 110.77 - Time: 11:28 - Strength: 7.
+
+ALERT: New MACD signal created on $RDS-A - Direction: High at 1796.5 - Time: 09:58 - Strength: 9.
+
+ALERT: New Social signal created on $TEVA - Direction: High at 55.66 - Time: 08:27 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $CADCHF - Direction: High at 0.75063 - Time: 06:56 - Strength: 6.
+
+ALERT: New RSI signal created on $USDZAR - Direction: Low at 14.623 - Time: 05:26 - Strength: 7.
+
+ALERT: New RSI signal created on $AUDNZD - Direction: Low at 1.11769 - Time: 03:55 - Strength: 5.
+
+ALERT: New Social signal created on $USDJPY - Direction: High at 109.397 - Time: 02:25 - Strength: 7.
+
+ALERT: New Social signal created on $USDSEK - Direction: Low at 8.15098 - Time: 00:54 - Strength: 7.
+
+ALERT: New Bollinger Bands signal created on $SMFG - Direction: Low at 3474.5 - Time: 23:23 - Strength: 6.
+
+ALERT: New William %R signal created on $GBPJPY - Direction: Low at 155.238 - Time: 21:53 - Strength: 10.
+
+ALERT: New MACD signal created on $USDMXN - Direction: Low at 17.477 - Time: 20:23 - Strength: 6.
+
+ALERT: New MACD signal created on $GER30 - Direction: High at 10016.75 - Time: 18:52 - Strength: 10.
+
+ALERT: New Social signal created on $YHOO - Direction: High at 37.18 - Time: 17:22 - Strength: 10.
+
+ALERT: New Social signal created on $JPM - Direction: High at 61.935 - Time: 15:51 - Strength: 7.
+
+ALERT: New Bollinger Bands signal created on $CSCO - Direction: Low at 28.06 - Time: 14:20 - Strength: 5.
+
+ALERT: New MACD signal created on $MCD - Direction: Low at 127.595 - Time: 12:49 - Strength: 9.
+
+ALERT: New Social signal created on $GOOG - Direction: High at 747.25 - Time: 11:19 - Strength: 5.
+
+ALERT: New Social signal created on $AUDUSD - Direction: Low at 0.76645 - Time: 09:48 - Strength: 5.
+
+ALERT: New MACD signal created on $JNK - Direction: Low at 159.975 - Time: 08:18 - Strength: 10.
+
+ALERT: New RSI signal created on $GER30 - Direction: Low at 9911.0 - Time: 06:48 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $GBPUSD - Direction: High at 1.42561 - Time: 05:17 - Strength: 6.
+
+ALERT: New RSI signal created on $GBPJPY - Direction: Low at 155.279 - Time: 03:46 - Strength: 6.
+
+ALERT: New RSI signal created on $BHP - Direction: Low at 17.64 - Time: 02:16 - Strength: 6.
+
+ALERT: New William %R signal created on $NGAS - Direction: Low at 2.0155 - Time: 00:46 - Strength: 10.
+
+ALERT: New MACD signal created on $GOOG - Direction: Low at 743.12 - Time: 23:16 - Strength: 10.
+
+ALERT: New MACD signal created on $FB - Direction: Low at 110.56 - Time: 21:45 - Strength: 6.
+
+ALERT: New MACD signal created on $GBPJPY - Direction: Low at 154.84 - Time: 20:15 - Strength: 7.
+
+ALERT: New MACD signal created on $LYG - Direction: High at 3.88 - Time: 18:45 - Strength: 6.
+
+ALERT: New MACD signal created on $BA - Direction: High at 129.52 - Time: 17:15 - Strength: 9.
+
+ALERT: New RSI signal created on $USOil - Direction: Low at 41.915 - Time: 15:45 - Strength: 5.
+
+ALERT: New MACD signal created on $EURCAD - Direction: High at 1.46488 - Time: 14:14 - Strength: 5.
+
+ALERT: New RSI signal created on $NZDUSD - Direction: Low at 0.6921 - Time: 12:43 - Strength: 6.
+
+ALERT: New MACD signal created on $Copper - Direction: High at 2.1065 - Time: 11:13 - Strength: 6.
+
+ALERT: New MACD signal created on $XAGUSD - Direction: High at 16.003 - Time: 09:43 - Strength: 7.
+
+ALERT: New Social signal created on $USDCHF - Direction: High at 0.95106 - Time: 08:12 - Strength: 6.
+
+ALERT: New Social signal created on $USDCAD - Direction: High at 1.29061 - Time: 06:42 - Strength: 7.
+
+ALERT: New ADX signal created on $XAGUSD - Direction: Low at 15.819 - Time: 05:10 - Strength: 8.
+
+ALERT: New MACD signal created on $USDJPY - Direction: Low at 108.251 - Time: 03:40 - Strength: 7.
+
+ALERT: New Social signal created on $EURGBP - Direction: Low at 0.80173 - Time: 02:08 - Strength: 10.
+
+ALERT: New Social signal created on $USDCAD - Direction: High at 1.29146 - Time: 00:37 - Strength: 9.
+
+ALERT: New RSI signal created on $NAS100 - Direction: High at 4450.4 - Time: 23:06 - Strength: 9.
+
+ALERT: New Aroon Oscillator signal created on $USDNOK - Direction: Low at 8.20252 - Time: 21:35 - Strength: 5.
+
+ALERT: New RSI signal created on $CTXS - Direction: High at 78.55 - Time: 20:05 - Strength: 6.
+
+ALERT: New MACD signal created on $V - Direction: High at 78.19 - Time: 18:34 - Strength: 8.
+
+ALERT: New Social signal created on $AUDUSD - Direction: Low at 0.76082 - Time: 17:04 - Strength: 8.
+
+ALERT: New RSI signal created on $AXP - Direction: High at 59.34 - Time: 15:34 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $CADCHF - Direction: Low at 0.73867 - Time: 15:23 - Strength: 5.
+
+ALERT: New RSI signal created on $TWTR - Direction: High at 16.51 - Time: 13:53 - Strength: 5.
+
+ALERT: New Kaufman Adaptive Moving Average signal created on $YHOO - Direction: High at 36.375 - Time: 12:22 - Strength: 8.
+
+ALERT: New ADX signal created on $SAN - Direction: High at 4.12 - Time: 12:05 - Strength: 10.
+
+ALERT: New Social signal created on $C - Direction: Low at 40.625 - Time: 10:34 - Strength: 5.
+
+ALERT: New Commodity Channel Index signal created on $BTCUSD - Direction: Low at 421.06 - Time: 09:04 - Strength: 9.
+
+ALERT: New MACD signal created on $BBVA - Direction: Low at 5.442 - Time: 07:34 - Strength: 7.
+
+ALERT: New Social signal created on $EURUSD - Direction: High at 1.14092 - Time: 06:04 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $XAGUSD - Direction: Low at 15.47 - Time: 04:32 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $USDNOK - Direction: High at 8.2179 - Time: 03:01 - Strength: 6.
+
+ALERT: New William %R signal created on $EURCAD - Direction: Low at 1.48436 - Time: 01:31 - Strength: 10.
+
+ALERT: New RSI signal created on $USDRUB - Direction: Low at 67.2501 - Time: 00:00 - Strength: 10.
+
+ALERT: New William %R signal created on $YHOO - Direction: Low at 36.27 - Time: 23:17 - Strength: 8.
+
+ALERT: New ADX signal created on $BTCUSD - Direction: Low at 418.3 - Time: 21:46 - Strength: 6.
+
+ALERT: New Social signal created on $C - Direction: Low at 40.515 - Time: 20:15 - Strength: 5.
+
+ALERT: New Commodity Channel Index signal created on $EURJPY - Direction: Low at 123.486 - Time: 18:45 - Strength: 6.
+
+ALERT: New Social signal created on $C - Direction: Low at 40.705 - Time: 17:15 - Strength: 6.
+
+ALERT: New MACD signal created on $NZDUSD - Direction: High at 0.68188 - Time: 15:44 - Strength: 5.
+
+ALERT: New RSI signal created on $USDNOK - Direction: High at 8.21799 - Time: 14:14 - Strength: 6.
+
+ALERT: New Social signal created on $AUDUSD - Direction: High at 0.75459 - Time: 12:44 - Strength: 5.
+
+ALERT: New Social signal created on $JPM - Direction: Low at 57.805 - Time: 11:13 - Strength: 7.
+
+ALERT: New MACD signal created on $BP - Direction: High at 347.825 - Time: 09:43 - Strength: 10.
+
+ALERT: New RSI signal created on $USDRUB - Direction: High at 67.3447 - Time: 08:12 - Strength: 10.
+
+ALERT: New Social signal created on $EURGBP - Direction: High at 0.80826 - Time: 06:41 - Strength: 7.
+
+ALERT: New Aroon Oscillator signal created on $XAGUSD - Direction: High at 15.189 - Time: 05:11 - Strength: 10.
+
+ALERT: New Social signal created on $EURJPY - Direction: Low at 123.532 - Time: 03:41 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $USDMXN - Direction: High at 17.856 - Time: 02:11 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $XAUUSD - Direction: High at 1237.67 - Time: 00:39 - Strength: 7.
+
+ALERT: New Aroon Oscillator signal created on $USDSEK - Direction: High at 8.16531 - Time: 23:09 - Strength: 5.
+
+ALERT: New ADX signal created on $GBPCHF - Direction: High at 1.34355 - Time: 21:39 - Strength: 10.
+
+ALERT: New MACD signal created on $USDJPY - Direction: High at 108.419 - Time: 20:09 - Strength: 7.
+
+ALERT: New Social signal created on $USDCAD - Direction: Low at 1.31493 - Time: 18:38 - Strength: 5.
+
+ALERT: New Social signal created on $INTC - Direction: Low at 31.58 - Time: 17:08 - Strength: 8.
+
+ALERT: New MACD signal created on $F - Direction: Low at 12.62 - Time: 15:37 - Strength: 7.
+
+ALERT: New Social signal created on $TSLA - Direction: High at 267.02 - Time: 14:07 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $JNJ - Direction: Low at 109.39 - Time: 12:36 - Strength: 6.
+
+ALERT: New Social signal created on $USDCAD - Direction: Low at 1.30995 - Time: 11:06 - Strength: 7.
+
+ALERT: New RSI signal created on $CHFJPY - Direction: High at 113.247 - Time: 09:36 - Strength: 10.
+
+ALERT: New Social signal created on $GBPUSD - Direction: Low at 1.4081 - Time: 08:05 - Strength: 6.
+
+ALERT: New Social signal created on $USDJPY - Direction: Low at 108.922 - Time: 06:34 - Strength: 8.
+
+ALERT: New RSI signal created on $USDCHF - Direction: High at 0.95465 - Time: 05:03 - Strength: 5.
+
+ALERT: New RSI signal created on $SNE - Direction: High at 2805.25 - Time: 03:33 - Strength: 8.
+
+ALERT: New MACD signal created on $USDMXN - Direction: Low at 17.625 - Time: 02:02 - Strength: 6.
+
+ALERT: New MACD signal created on $EURJPY - Direction: Low at 125.116 - Time: 00:32 - Strength: 7.
+
+ALERT: New Social signal created on $NZDUSD - Direction: Low at 0.6828 - Time: 23:02 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $AUDNZD - Direction: Low at 1.11426 - Time: 21:32 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $WBK - Direction: Low at 22.01 - Time: 20:02 - Strength: 5.
+
+ALERT: New RSI signal created on $PBYI - Direction: Low at 31.14 - Time: 18:31 - Strength: 9.
+
+ALERT: New MACD signal created on $CSIQ - Direction: Low at 17.83 - Time: 17:00 - Strength: 8.
+
+ALERT: New RSI signal created on $VOD - Direction: Low at 219.95 - Time: 15:30 - Strength: 7.
+
+ALERT: New RSI signal created on $JPM - Direction: Low at 58.12 - Time: 13:59 - Strength: 7.
+
+ALERT: New Social signal created on $XAUUSD - Direction: High at 1220.45 - Time: 12:29 - Strength: 6.
+
+ALERT: New Social signal created on $AUDJPY - Direction: Low at 83.206 - Time: 10:59 - Strength: 9.
+
+ALERT: New Social signal created on $C - Direction: Low at 41.685 - Time: 10:58 - Strength: 6.
+
+ALERT: New RSI signal created on $AUDJPY - Direction: High at 83.246 - Time: 10:43 - Strength: 7.
+
+ALERT: New Bollinger Bands signal created on $AXP - Direction: Low at 60.46 - Time: 09:13 - Strength: 7.
+
+ALERT: New MACD signal created on $BBVA - Direction: Low at 5.6 - Time: 07:42 - Strength: 7.
+
+ALERT: New ADX signal created on $AUDJPY - Direction: High at 83.458 - Time: 06:11 - Strength: 5.
+
+ALERT: New William %R signal created on $USDNOK - Direction: Low at 8.33556 - Time: 04:41 - Strength: 6.
+
+ALERT: New Stochastic signal created on $USDTRY - Direction: High at 2.8284 - Time: 03:10 - Strength: 5.
+
+ALERT: New ADX signal created on $AUDUSD - Direction: Low at 0.75414 - Time: 01:39 - Strength: 9.
+
+ALERT: New Kaufman Adaptive Moving Average signal created on $CHFJPY - Direction: High at 115.417 - Time: 00:09 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $USDSEK - Direction: Low at 8.13233 - Time: 22:39 - Strength: 7.
+
+ALERT: New Aroon Oscillator signal created on $RIO - Direction: Low at 41.96 - Time: 21:09 - Strength: 8.
+
+ALERT: New MACD signal created on $GBPAUD - Direction: High at 1.87745 - Time: 19:38 - Strength: 5.
+
+ALERT: New Commodity Channel Index signal created on $MRVL - Direction: High at 10.84 - Time: 18:08 - Strength: 7.
+
+ALERT: New MACD signal created on $XOM - Direction: High at 82.305 - Time: 16:38 - Strength: 8.
+
+ALERT: New RSI signal created on $PTR - Direction: High at 62.74 - Time: 15:08 - Strength: 10.
+
+ALERT: New William %R signal created on $NZDUSD - Direction: Low at 0.67772 - Time: 13:37 - Strength: 8.
+
+ALERT: New Kaufman Adaptive Moving Average signal created on $SBRCY - Direction: High at 106.725 - Time: 12:07 - Strength: 8.
+
+ALERT: New Social signal created on $EURUSD - Direction: Low at 1.13563 - Time: 10:37 - Strength: 5.
+
+ALERT: New Parabolic SAR signal created on $USDJPY - Direction: Low at 110.462 - Time: 09:07 - Strength: 10.
+
+ALERT: New Social signal created on $JNK - Direction: High at 147.0 - Time: 07:37 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $USDZAR - Direction: High at 14.829 - Time: 06:06 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $EURNOK - Direction: High at 9.4875 - Time: 04:36 - Strength: 6.
+
+ALERT: New MACD signal created on $EURCAD - Direction: High at 1.49387 - Time: 03:06 - Strength: 5.
+
+ALERT: New MACD signal created on $EURCAD - Direction: Low at 1.49368 - Time: 01:35 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $EURGBP - Direction: Low at 0.79866 - Time: 00:05 - Strength: 10.
+
+ALERT: New MACD signal created on $TEVA - Direction: High at 54.65 - Time: 22:35 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $AUDCAD - Direction: High at 0.99518 - Time: 21:05 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $ARX - Direction: High at 17.48 - Time: 19:35 - Strength: 7.
+
+ALERT: New RSI signal created on $DAL - Direction: High at 47.42 - Time: 18:04 - Strength: 5.
+
+ALERT: New RSI signal created on $CHFJPY - Direction: High at 115.916 - Time: 16:33 - Strength: 5.
+
+ALERT: New MACD signal created on $MRVL - Direction: High at 9.66 - Time: 15:03 - Strength: 7.
+
+ALERT: New RSI signal created on $TESO - Direction: High at 190.1 - Time: 13:33 - Strength: 5.
+
+ALERT: New MACD signal created on $BTCUSD - Direction: High at 418.69 - Time: 12:03 - Strength: 9.
+
+ALERT: New TRIX signal created on $EURJPY - Direction: High at 126.806 - Time: 10:32 - Strength: 9.
+
+ALERT: New Stochastic signal created on $VOD - Direction: Low at 220.3 - Time: 09:02 - Strength: 6.
+
+ALERT: New RSI signal created on $EURNOK - Direction: Low at 9.48311 - Time: 07:32 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $GBPCHF - Direction: High at 1.36322 - Time: 06:02 - Strength: 6.
+
+ALERT: New RSI signal created on $EURUSD - Direction: High at 1.1385 - Time: 04:32 - Strength: 7.
+
+ALERT: New MACD signal created on $GBPJPY - Direction: Low at 158.786 - Time: 03:01 - Strength: 8.
+
+ALERT: New MACD signal created on $BHP - Direction: High at 16.715 - Time: 01:30 - Strength: 8.
+
+ALERT: New ZigZag Signal signal created on $USDTRY - Direction: High at 2.8245 - Time: 00:00 - Strength: 5.
+
+ALERT: New Stochastic signal created on $BTCUSD - Direction: Low at 417.21 - Time: 23:46 - Strength: 7.
+
+ALERT: New William %R signal created on $NKE - Direction: High at 61.595 - Time: 22:16 - Strength: 8.
+
+ALERT: New RSI signal created on $GOOG - Direction: Low at 751.2 - Time: 20:44 - Strength: 5.
+
+ALERT: New MACD signal created on $CADJPY - Direction: High at 85.808 - Time: 19:14 - Strength: 8.
+
+ALERT: New MACD signal created on $USDMXN - Direction: Low at 17.316 - Time: 17:43 - Strength: 7.
+
+ALERT: New Social signal created on $GBPJPY - Direction: Low at 159.17 - Time: 16:12 - Strength: 5.
+
+ALERT: New RSI signal created on $BBY - Direction: High at 31.77 - Time: 14:41 - Strength: 6.
+
+ALERT: New MACD signal created on $EURUSD - Direction: High at 1.14077 - Time: 13:11 - Strength: 5.
+
+ALERT: New MACD signal created on $C - Direction: Low at 41.53 - Time: 11:40 - Strength: 7.
+
+ALERT: New MACD signal created on $USDCAD - Direction: Low at 1.30341 - Time: 10:10 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $RDS-A - Direction: Low at 1671.5 - Time: 08:40 - Strength: 5.
+
+ALERT: New MACD signal created on $BTCUSD - Direction: High at 415.49 - Time: 07:09 - Strength: 8.
+
+ALERT: New MACD signal created on $SNE - Direction: Low at 2775.25 - Time: 05:38 - Strength: 10.
+
+ALERT: New Social signal created on $EURJPY - Direction: Low at 127.752 - Time: 04:08 - Strength: 6.
+
+ALERT: New Social signal created on $AUDUSD - Direction: High at 0.76616 - Time: 02:38 - Strength: 7.
+
+ALERT: New Social signal created on $EURCAD - Direction: High at 1.47628 - Time: 01:06 - Strength: 8.
+
+ALERT: New Social signal created on $EURUSD - Direction: High at 1.13799 - Time: 23:35 - Strength: 5.
+
+ALERT: New RSI signal created on $USDCAD - Direction: High at 1.29867 - Time: 22:05 - Strength: 5.
+
+ALERT: New Social signal created on $GBPJPY - Direction: High at 161.7 - Time: 20:35 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $COST - Direction: Low at 157.72 - Time: 19:05 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $USDTRY - Direction: Low at 2.82089 - Time: 17:35 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $AUDUSD - Direction: Low at 0.768 - Time: 16:05 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $YHOO - Direction: Low at 36.955 - Time: 14:35 - Strength: 7.
+
+ALERT: New MACD signal created on $XAUUSD - Direction: High at 1237.09 - Time: 13:03 - Strength: 10.
+
+ALERT: New Social signal created on $FB - Direction: High at 114.565 - Time: 11:33 - Strength: 8.
+
+ALERT: New RSI signal created on $XAGUSD - Direction: Low at 15.366 - Time: 10:02 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $EURUSD - Direction: Low at 1.13541 - Time: 08:32 - Strength: 6.
+
+ALERT: New Social signal created on $EURJPY - Direction: High at 127.303 - Time: 07:02 - Strength: 6.
+
+ALERT: New RSI signal created on $SMFG - Direction: Low at 3467.5 - Time: 05:31 - Strength: 8.
+
+ALERT: New RSI signal created on $USDTRY - Direction: Low at 2.83957 - Time: 04:01 - Strength: 9.
+
+ALERT: New Bollinger Bands signal created on $AUDJPY - Direction: High at 85.994 - Time: 02:31 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $GBPAUD - Direction: Low at 1.87674 - Time: 01:01 - Strength: 5.
+
+ALERT: New Social signal created on $MCD - Direction: High at 125.805 - Time: 23:30 - Strength: 10.
+
+ALERT: New Kaufman Adaptive Moving Average signal created on $EURUSD - Direction: Low at 1.13344 - Time: 22:00 - Strength: 5.
+
+ALERT: New RSI signal created on $C - Direction: High at 41.87 - Time: 20:30 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $AUDCAD - Direction: Low at 0.99482 - Time: 19:00 - Strength: 7.
+
+ALERT: New Trending Signal signal created on $NFLX - Direction: High at 102.18 - Time: 17:30 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $ARX - Direction: Low at 18.79 - Time: 16:00 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $EURJPY - Direction: Low at 127.694 - Time: 14:30 - Strength: 10.
+
+ALERT: New Trending Signal signal created on $JNK - Direction: Low at 152.025 - Time: 13:00 - Strength: 5.
+
+ALERT: New MACD signal created on $EURNOK - Direction: High at 9.41541 - Time: 11:29 - Strength: 5.
+
+ALERT: New RSI signal created on $GBPCHF - Direction: High at 1.38755 - Time: 09:59 - Strength: 8.
+
+ALERT: New RSI signal created on $GBPCAD - Direction: High at 1.87741 - Time: 08:29 - Strength: 7.
+
+ALERT: New RSI signal created on $GBPUSD - Direction: Low at 1.44115 - Time: 06:58 - Strength: 6.
+
+ALERT: New MACD signal created on $XAGUSD - Direction: Low at 15.331 - Time: 05:28 - Strength: 6.
+
+ALERT: New William %R signal created on $XAUUSD - Direction: High at 1235.19 - Time: 03:57 - Strength: 7.
+
+ALERT: New MACD signal created on $SMFG - Direction: High at 3418.5 - Time: 02:27 - Strength: 10.
+
+ALERT: New MACD signal created on $GBPCAD - Direction: Low at 1.87962 - Time: 00:57 - Strength: 5.
+
+ALERT: New RSI signal created on $GBPCHF - Direction: High at 1.39004 - Time: 23:27 - Strength: 6.
+
+ALERT: New MACD signal created on $GBPJPY - Direction: Low at 162.173 - Time: 21:57 - Strength: 7.
+
+ALERT: New Social signal created on $WFC - Direction: High at 48.07 - Time: 20:26 - Strength: 10.
+
+ALERT: New MACD signal created on $BBD - Direction: High at 7.62 - Time: 18:56 - Strength: 6.
+
+ALERT: New MACD signal created on $EURCAD - Direction: Low at 1.47708 - Time: 17:26 - Strength: 5.
+
+ALERT: New RSI signal created on $FB - Direction: Low at 114.965 - Time: 15:56 - Strength: 8.
+
+ALERT: New Social signal created on $MSFT - Direction: Low at 54.155 - Time: 15:16 - Strength: 7.
+
+ALERT: New MACD signal created on $FB - Direction: High at 113.855 - Time: 13:45 - Strength: 7.
+
+ALERT: New MACD signal created on $VOD - Direction: Low at 218.5 - Time: 12:15 - Strength: 9.
+
+ALERT: New Social signal created on $AUDUSD - Direction: Low at 0.75294 - Time: 10:45 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $CADJPY - Direction: Low at 86.187 - Time: 09:15 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $USDCHF - Direction: High at 0.9752 - Time: 07:45 - Strength: 5.
+
+ALERT: New MACD signal created on $XAUUSD - Direction: Low at 1219.32 - Time: 06:14 - Strength: 10.
+
+ALERT: New MACD signal created on $IBN - Direction: High at 225.65 - Time: 04:43 - Strength: 8.
+
+ALERT: New MACD signal created on $BHP - Direction: High at 16.905 - Time: 03:13 - Strength: 7.
+
+ALERT: New Bollinger Bands signal created on $USDZAR - Direction: Low at 15.473 - Time: 01:43 - Strength: 7.
+
+ALERT: New Social signal created on $USDJPY - Direction: Low at 113.404 - Time: 00:12 - Strength: 10.
+
+ALERT: New Social signal created on $GBPJPY - Direction: High at 161.796 - Time: 22:42 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $C - Direction: High at 41.74 - Time: 21:12 - Strength: 5.
+
+ALERT: New Chande Momentum Oscillator signal created on $USDMXN - Direction: High at 17.42 - Time: 19:41 - Strength: 10.
+
+ALERT: New RSI signal created on $ERIC - Direction: Low at 9.61 - Time: 18:11 - Strength: 7.
+
+ALERT: New MACD signal created on $MCD - Direction: Low at 123.485 - Time: 15:44 - Strength: 9.
+
+ALERT: New Trending Signal signal created on $EURUSD - Direction: High at 1.12133 - Time: 15:05 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $GS - Direction: Low at 153.66 - Time: 13:34 - Strength: 6.
+
+ALERT: New RSI signal created on $MCD - Direction: Low at 123.0 - Time: 12:03 - Strength: 5.
+
+ALERT: New MACD signal created on $XAGUSD - Direction: High at 15.217 - Time: 10:32 - Strength: 7.
+
+ALERT: New Bollinger Bands signal created on $SBRCY - Direction: High at 108.42 - Time: 09:02 - Strength: 6.
+
+ALERT: New RSI signal created on $SBRCY - Direction: Low at 109.945 - Time: 07:31 - Strength: 9.
+
+ALERT: New MACD signal created on $CADJPY - Direction: High at 85.698 - Time: 06:01 - Strength: 8.
+
+ALERT: New MACD signal created on $CADJPY - Direction: High at 85.675 - Time: 04:31 - Strength: 6.
+
+ALERT: New MACD signal created on $USDZAR - Direction: Low at 15.47 - Time: 03:00 - Strength: 6.
+
+ALERT: New William %R signal created on $SNE - Direction: Low at 2891.75 - Time: 01:30 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $GBPCHF - Direction: Low at 1.3827 - Time: 00:00 - Strength: 5.
+
+ALERT: New MACD signal created on $BTCUSD - Direction: Low at 416.6 - Time: 23:59 - Strength: 9.
+
+ALERT: New Parabolic SAR signal created on $BTCUSD - Direction: High at 415.86 - Time: 22:09 - Strength: 10.
+
+ALERT: New ADX signal created on $AUDJPY - Direction: High at 84.897 - Time: 20:20 - Strength: 10.
+
+ALERT: New Trending Signal signal created on $AUDUSD - Direction: High at 0.75082 - Time: 18:50 - Strength: 5.
+
+ALERT: New Stochastic signal created on $CHFJPY - Direction: Low at 115.708 - Time: 17:19 - Strength: 5.
+
+ALERT: New Social signal created on $NZDUSD - Direction: High at 0.66835 - Time: 15:49 - Strength: 5.
+
+ALERT: New MACD signal created on $CHFJPY - Direction: High at 115.713 - Time: 14:18 - Strength: 7.
+
+ALERT: New ADX signal created on $CADCHF - Direction: Low at 0.73792 - Time: 12:48 - Strength: 10.
+
+ALERT: New Social signal created on $GBPUSD - Direction: Low at 1.41332 - Time: 11:17 - Strength: 5.
+
+ALERT: New Stochastic signal created on $EURCHF - Direction: High at 1.09035 - Time: 09:46 - Strength: 9.
+
+ALERT: New Social signal created on $AUDUSD - Direction: High at 0.75282 - Time: 08:16 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $GBPUSD - Direction: Low at 1.41288 - Time: 06:46 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $GBPCHF - Direction: High at 1.37954 - Time: 05:15 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $USDNOK - Direction: Low at 8.50026 - Time: 03:45 - Strength: 7.
+
+ALERT: New RSI signal created on $USDCHF - Direction: Low at 0.97751 - Time: 02:13 - Strength: 10.
+
+ALERT: New Social signal created on $NZDUSD - Direction: High at 0.66941 - Time: 00:43 - Strength: 5.
+
+ALERT: New Bollinger Bands signal created on $SNE - Direction: High at 2824.5 - Time: 23:12 - Strength: 7.
+
+ALERT: New MACD signal created on $GBPJPY - Direction: High at 159.654 - Time: 21:41 - Strength: 6.
+
+ALERT: New RSI signal created on $AMZN - Direction: Low at 583.475 - Time: 20:10 - Strength: 5.
+
+ALERT: New MACD signal created on $SYMC - Direction: Low at 18.64 - Time: 18:40 - Strength: 7.
+
+ALERT: New TRIX signal created on $CHFJPY - Direction: High at 115.486 - Time: 17:10 - Strength: 9.
+
+ALERT: New Trending Signal signal created on $C - Direction: High at 41.345 - Time: 15:40 - Strength: 5.
+
+ALERT: New MACD signal created on $CSCO - Direction: Low at 27.85 - Time: 14:09 - Strength: 7.
+
+ALERT: New RSI signal created on $AXP - Direction: High at 59.905 - Time: 12:39 - Strength: 9.
+
+ALERT: New Chande Momentum Oscillator signal created on $SBRCY - Direction: High at 108.67 - Time: 11:08 - Strength: 10.
+
+ALERT: New Ultimate Oscillator signal created on $RDS-A - Direction: High at 1668.0 - Time: 09:43 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $RDS-A - Direction: High at 1682.0 - Time: 08:01 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $BTCUSD - Direction: Low at 416.77 - Time: 06:02 - Strength: 5.
+
+ALERT: New MACD signal created on $BTCUSD - Direction: High at 415.73 - Time: 03:49 - Strength: 10.
+
+ALERT: New Parabolic SAR signal created on $BTCUSD - Direction: Low at 416.85 - Time: 01:53 - Strength: 10.
+
+ALERT: New ADX signal created on $BTCUSD - Direction: Low at 417.59 - Time: 00:21 - Strength: 10.
+
+ALERT: New Social signal created on $XAUUSD - Direction: Low at 1223.31 - Time: 22:50 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $USDSEK - Direction: Low at 8.26694 - Time: 21:20 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $YHOO - Direction: Low at 34.785 - Time: 19:50 - Strength: 6.
+
+ALERT: New RSI signal created on $MMM - Direction: Low at 164.93 - Time: 18:19 - Strength: 10.
+
+ALERT: New ADX signal created on $KO - Direction: High at 45.53 - Time: 16:48 - Strength: 10.
+
+ALERT: New RSI signal created on $PRGO - Direction: High at 130.35 - Time: 15:18 - Strength: 9.
+
+ALERT: New RSI signal created on $EURCAD - Direction: Low at 1.4734 - Time: 13:48 - Strength: 5.
+
+ALERT: New Social signal created on $USDCHF - Direction: Low at 0.9742 - Time: 12:17 - Strength: 6.
+
+ALERT: New MACD signal created on $USDRUB - Direction: Low at 67.769 - Time: 10:46 - Strength: 8.
+
+ALERT: New MACD signal created on $EURAUD - Direction: Low at 1.47298 - Time: 09:16 - Strength: 5.
+
+ALERT: New Social signal created on $GBPJPY - Direction: Low at 159.231 - Time: 07:45 - Strength: 10.
+
+ALERT: New Bollinger Bands signal created on $GBPJPY - Direction: High at 159.333 - Time: 06:15 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $RIO - Direction: Low at 43.735 - Time: 04:45 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $USDNOK - Direction: High at 8.40297 - Time: 03:15 - Strength: 9.
+
+ALERT: New RSI signal created on $AUDCAD - Direction: Low at 0.99702 - Time: 01:44 - Strength: 5.
+
+ALERT: New William %R signal created on $GBPUSD - Direction: Low at 1.42171 - Time: 00:14 - Strength: 7.
+
+ALERT: New Social signal created on $XAUUSD - Direction: Low at 1247.73 - Time: 22:44 - Strength: 9.
+
+ALERT: New William %R signal created on $GBPCHF - Direction: Low at 1.38309 - Time: 21:13 - Strength: 6.
+
+ALERT: New RSI signal created on $CADJPY - Direction: Low at 86.143 - Time: 19:42 - Strength: 8.
+
+ALERT: New Social signal created on $AMZN - Direction: High at 560.965 - Time: 18:12 - Strength: 5.
+
+ALERT: New Social signal created on $GBPAUD - Direction: Low at 1.86481 - Time: 16:41 - Strength: 7.
+
+ALERT: New RSI signal created on $GBPUSD - Direction: Low at 1.42341 - Time: 15:11 - Strength: 5.
+
+ALERT: New RSI signal created on $COST - Direction: High at 153.13 - Time: 13:40 - Strength: 8.
+
+ALERT: New MACD signal created on $XOM - Direction: Low at 83.195 - Time: 12:10 - Strength: 8.
+
+ALERT: New MACD signal created on $XAGUSD - Direction: Low at 15.96 - Time: 10:40 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $EURAUD - Direction: High at 1.476 - Time: 09:10 - Strength: 6.
+
+ALERT: New Bollinger Bands signal created on $USDRUB - Direction: High at 67.556 - Time: 07:39 - Strength: 5.
+
+ALERT: New Stochastic signal created on $USDTRY - Direction: High at 2.86083 - Time: 06:09 - Strength: 5.
+
+ALERT: New Stochastic signal created on $BTCUSD - Direction: Low at 415.89 - Time: 04:37 - Strength: 6.
+
+ALERT: New ADX signal created on $RIO - Direction: High at 43.885 - Time: 03:07 - Strength: 10.
+
+ALERT: New Social signal created on $GBPJPY - Direction: Low at 161.207 - Time: 01:37 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $CHFJPY - Direction: Low at 115.556 - Time: 00:06 - Strength: 6.
+
+ALERT: New Social signal created on $USDCHF - Direction: Low at 0.97045 - Time: 22:36 - Strength: 5.
+
+ALERT: New Social signal created on $USDJPY - Direction: High at 111.955 - Time: 21:05 - Strength: 5.
+
+ALERT: New Stochastic signal created on $DAL - Direction: High at 50.16 - Time: 19:35 - Strength: 6.
+
+ALERT: New MACD signal created on $HD - Direction: Low at 130.75 - Time: 18:05 - Strength: 8.
+
+ALERT: New Social signal created on $BBY - Direction: High at 32.1 - Time: 16:35 - Strength: 10.
+
+ALERT: New Trending Signal signal created on $BA - Direction: Low at 135.54 - Time: 15:05 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $EURCHF - Direction: Low at 1.09173 - Time: 13:35 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $USDCAD - Direction: Low at 1.30672 - Time: 12:05 - Strength: 5.
+
+ALERT: New Trending Signal signal created on $JNK - Direction: High at 162.875 - Time: 10:35 - Strength: 6.
+
+ALERT: New MACD signal created on $VOD - Direction: Low at 216.45 - Time: 09:04 - Strength: 10.
+
+ALERT: New RSI signal created on $XAUUSD - Direction: High at 1243.15 - Time: 07:33 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $USDMXN - Direction: Low at 17.476 - Time: 06:03 - Strength: 5.
+
+ALERT: New Social signal created on $USDJPY - Direction: Low at 111.441 - Time: 04:32 - Strength: 8.
+
+ALERT: New RSI signal created on $BHP - Direction: Low at 18.015 - Time: 03:02 - Strength: 5.
+
+ALERT: New MACD signal created on $CADJPY - Direction: High at 85.193 - Time: 01:32 - Strength: 7.
+
+ALERT: New RSI signal created on $AUDNZD - Direction: Low at 1.12129 - Time: 00:00 - Strength: 5.
+
+ALERT: New ADX signal created on $TWTR - Direction: High at 16.795 - Time: 22:52 - Strength: 6.
+
+ALERT: New MACD signal created on $AXP - Direction: High at 60.375 - Time: 21:21 - Strength: 7.
+
+ALERT: New MACD signal created on $TSLA - Direction: High at 232.99 - Time: 19:51 - Strength: 9.
+
+ALERT: New Bollinger Bands signal created on $CSIQ - Direction: High at 20.66 - Time: 18:20 - Strength: 5.
+
+ALERT: New MACD signal created on $WFC - Direction: High at 50.16 - Time: 16:50 - Strength: 8.
+
+ALERT: New Trending Signal signal created on $CHFJPY - Direction: High at 115.137 - Time: 15:20 - Strength: 6.
+
+ALERT: New MACD signal created on $XAGUSD - Direction: High at 15.894 - Time: 13:49 - Strength: 7.
+
+ALERT: New RSI signal created on $XAUUSD - Direction: High at 1251.57 - Time: 12:19 - Strength: 8.
+
+ALERT: New Bollinger Bands signal created on $GBPCAD - Direction: High at 1.87573 - Time: 10:48 - Strength: 6.
+
+ALERT: New Kaufman Adaptive Moving Average signal created on $XAUUSD - Direction: Low at 1254.8 - Time: 09:17 - Strength: 10.
+
+ALERT: New RSI signal created on $USDSEK - Direction: Low at 8.21007 - Time: 07:47 - Strength: 5.
+
+ALERT: New RSI signal created on $USDJPY - Direction: Low at 111.366 - Time: 06:17 - Strength: 6.
+
+ALERT: New RSI signal created on $AUDJPY - Direction: High at 85.105 - Time: 04:47 - Strength: 5.
+
+ALERT: New Social signal created on $EURGBP - Direction: High at 0.78243 - Time: 03:16 - Strength: 5.
+
+ALERT: New MACD signal created on $SNE - Direction: Low at 2908.25 - Time: 01:46 - Strength: 10.
+
+ALERT: New Bollinger Bands signal created on $AUDJPY - Direction: High at 85.024 - Time: 00:15 - Strength: 7.
+
+ALERT: New Social signal created on $EURAUD - Direction: Low at 1.48125 - Time: 22:45 - Strength: 9.
+
+ALERT: New Trending Signal signal created on $USDTRY - Direction: High at 2.84212 - Time: 21:15 - Strength: 6.
+
+ALERT: New Trending Signal signal created on $EURJPY - Direction: High at 126.14 - Time: 19:45 - Strength: 6.
+
+ALERT: New RSI signal created on $V - Direction: Low at 73.57 - Time: 18:14 - Strength: 6.
+
+ALERT: New Social signal created on $NZDUSD - Direction: High at 0.68438 - Time: 16:44 - Strength: 8.
+
+ALERT: New MACD signal created on $USDZAR - Direction: High at 15.291 - Time: 15:13 - Strength: 7.
+
