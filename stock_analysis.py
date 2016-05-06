@@ -1,5 +1,13 @@
 #!/bin/python
 
+# Title: Stock Analysis
+# Author: Nick Fiacco
+# Date: 5/5/2016
+
+# Code to parse date from Twitter based string
+# Also fetches historical stock data using yahoo_finance api
+# runs regression on historical share prices using numpy
+
 from yahoo_finance import *
 import datetime
 import numpy as np
@@ -8,12 +16,32 @@ import numpy as np
 
 tweetDate = "Mon May 02 01:15:47 +0000 2016"
 
-def getStockData(ticker, tweetDate, interval):
+
+# converts Twitter date string into python datetime object
+def convertDate(tweetDate):
 
 	tokens = tweetDate.split()
 	dateStr = tokens[0] + " " + tokens[1] + " " + tokens[2] + " " + tokens[5]
 
-	startDate = datetime.datetime.strptime(dateStr, '%a %b %d %Y')
+	return datetime.datetime.strptime(dateStr, '%a %b %d %Y')
+
+
+
+# given a list of stock prices, returns the rate of change using a linear regression
+def getChangeRate(prices):
+
+	npData = np.array(prices).astype(np.float)
+	
+	x = np.array(range(len(npData)))
+ 	m, c = np.polyfit(x, npData, 1)
+
+	return m
+
+
+# returns true if the stock price has a positive rate of change over the period
+def getStockData(ticker, tweetDate, interval):
+
+	startDate = convertDate(tweetDate)
 	endDate = startDate + datetime.timedelta(days=interval)
 	print "Getting data for: " + ticker + " from " + str(startDate.date()) + " to " + str(endDate.date())
 
@@ -21,19 +49,17 @@ def getStockData(ticker, tweetDate, interval):
 
 	results = stock.get_historical(str(startDate.date()), str(endDate.date()))
 
-	data = []	
+	prices = []
 	for result in results:
-		data.append(float(result['Close']))
+		prices.append(float(result['Close']))
 		print "Price on " + result['Date'] + " at close was: " + result['Close']
 
+	changeRate = getChangeRate(prices)
 
-	npData = np.array(data).astype(np.float)
-	
-	x = np.array(range(len(npData)))
- 	m, c = np.polyfit(x, npData, 1)
+	print "Slope of regression fit to stock data: " + str(changeRate)
 
-	print "Slope of regression fit to stock data: " + str(m)
-
-
+	return (changeRate > 0)
 
 getStockData('AAPL', tweetDate, 5)
+
+
